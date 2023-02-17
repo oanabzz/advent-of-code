@@ -1,4 +1,4 @@
-package day3
+package adventofcode2021.day3
 
 import scala.io.Source
 

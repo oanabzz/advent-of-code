@@ -1,4 +1,4 @@
-package day2
+package adventofcode2021.day2
 
 import scala.annotation.tailrec
 import scala.io.Source
